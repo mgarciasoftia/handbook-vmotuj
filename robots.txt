@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mgarciasoftia.github.io/handbook-vmotuj/sitemap.xml
